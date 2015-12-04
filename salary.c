@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 void main() {
 	int salary,base,gongjijin,yanglao,gongshang,shengyu,yiliao,shiye,quanqin;
